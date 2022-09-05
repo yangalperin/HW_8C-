@@ -1,0 +1,15 @@
+/Users/yan/Desktop/HW_8/Task_5/bin/Debug/net6.0/Task_5
+/Users/yan/Desktop/HW_8/Task_5/bin/Debug/net6.0/Task_5.deps.json
+/Users/yan/Desktop/HW_8/Task_5/bin/Debug/net6.0/Task_5.runtimeconfig.json
+/Users/yan/Desktop/HW_8/Task_5/bin/Debug/net6.0/Task_5.dll
+/Users/yan/Desktop/HW_8/Task_5/bin/Debug/net6.0/Task_5.pdb
+/Users/yan/Desktop/HW_8/Task_5/obj/Debug/net6.0/Task_5.csproj.AssemblyReference.cache
+/Users/yan/Desktop/HW_8/Task_5/obj/Debug/net6.0/Task_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yan/Desktop/HW_8/Task_5/obj/Debug/net6.0/Task_5.AssemblyInfoInputs.cache
+/Users/yan/Desktop/HW_8/Task_5/obj/Debug/net6.0/Task_5.AssemblyInfo.cs
+/Users/yan/Desktop/HW_8/Task_5/obj/Debug/net6.0/Task_5.csproj.CoreCompileInputs.cache
+/Users/yan/Desktop/HW_8/Task_5/obj/Debug/net6.0/Task_5.dll
+/Users/yan/Desktop/HW_8/Task_5/obj/Debug/net6.0/refint/Task_5.dll
+/Users/yan/Desktop/HW_8/Task_5/obj/Debug/net6.0/Task_5.pdb
+/Users/yan/Desktop/HW_8/Task_5/obj/Debug/net6.0/Task_5.genruntimeconfig.cache
+/Users/yan/Desktop/HW_8/Task_5/obj/Debug/net6.0/ref/Task_5.dll
